@@ -1,0 +1,9 @@
+## Descrição da atividade:
+
+**Compartilhe um resumo de todas as informações que você coletou até agora. Por favor, inclua seus pontos fortes, estilo de trabalho, prioridades e motivação. Você pode resumir a informação na forma de uma tabela, mapa mental ou até mesmo em desenho. Seja criativo!**
+| **Categoria**                 | **Descrição**                                                                                                                                                                                                        |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pontos Fortes**             | - Tenho uma base técnica em Go, Java e desenvolvimento backend, além de experiência com tecnologias de cloud, como AWS e Docker.<br>- Consigo me adaptar rapidamente a novas tecnologias e desafios, comprovado pelas experiências em hackathons e fintech. |
+| **Estilo de Trabalho**        | - Prefiro uma comunicação direta e objetiva.<br>- Gosto de enfrentar desafios e resolver problemas complexos.<br>- Minha abordagem é prática, focando em soluções que gerem valor de forma eficiente.                   |
+| **Prioridades**               | - Quero alinhar minha carreira com áreas de interesse, como tecnologias usadas no mercado financeiro por exemplo.<br>- Busco sempre crescer e aprender, o que se reflete na minha participação em bootcamps e estudos contínuos.             |
+| **Motivações**                | - O que me motiva é aprender e dominar tecnologias que façam diferença no mercado.<br>- Tenho satisfação em resolver problemas reais e ver o impacto do meu trabalho.<br>- Estou constantemente em busca de desenvolver minhas habilidades não tecnicas. |
